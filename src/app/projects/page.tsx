@@ -8,6 +8,14 @@ import { ChevronLeftIcon, ChevronRightIcon } from "lucide-react";
 
 const projects = [
   {
+    title: "PropertyDeller",
+    description: "Full-stack web application enabling users to explore and manage properties with subscription plans.Implemented an AI-powered chatbot using Generative AI to assist users with property suggestions, price explanations, and general guidance on the platform",
+    image: "/PropertyDeller.png",
+    github: "https://github.com/dakshika-chaudhary/Property-Deller1",
+    demo: "https://property-deller1-xr3z.vercel.app/",
+    tech: ["React","SaaS","OpenAI","Clerk","linear regression ML model","Python", "Tailwind", "Nodejs","MongoDB"],
+  },
+  {
     title: "AssistAi",
     description: "AI-powered SaaS platform offering multiple AI tools including article generator, blog title generator, image generator, background remover, object remover, and resume analyzer",
     image: "/AssistAi.png",
